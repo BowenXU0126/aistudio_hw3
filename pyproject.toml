@@ -4,7 +4,7 @@ build-backend = "uv_build"
 
 [project]
 name = "advanced-task-manager"
-version = "1.0.0"
+version = "1.0.1"
 description = "A sophisticated MCP server for comprehensive task and project management with time tracking, analytics, and productivity insights"
 authors = [
     {name = "Your Name", email = "your.email@example.com"}
