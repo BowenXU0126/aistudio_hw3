@@ -22,5 +22,5 @@ start = "smithery.cli.start:main" # Run the MCP server in production mode
 playground = "smithery.cli.playground:main" # Run server with interactive testing playground
 
 [tool.smithery]
-server = "hello_server.server:create_server" # Function that returns a patched FastMCP server
+server = "advanced_task_manager.server:create_server" # Function that returns a patched FastMCP server
 log_level = "warning" # Production log level (optional, defaults to "warning")
